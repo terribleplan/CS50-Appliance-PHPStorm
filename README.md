@@ -27,8 +27,8 @@ PhpStorm/bin/phpstorm.sh
 
 Phpstorm is now installed and accessible from the menu! You have 30 days to mess around with it before you will need to acquire a license.
 
-Getting PhpStorm to be Useful
------------------------------
+Doing useful things with PhpStorm
+---------------------------------
 //TODO
 
 License
